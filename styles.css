@@ -1,0 +1,26 @@
+* {
+    align-items: center;
+}
+
+body {
+    display: grid;
+    justify-content: center;
+    padding: 50vh;
+    background-color: rgb(204, 105, 40);
+    overflow: hidden;
+}
+
+button {
+    border: solid 5px black;
+    background-color: rgb(129, 121, 121);
+    color: white;
+    border-radius: 20%;
+}
+
+#coin {
+    display: grid;
+}
+
+button onclick {
+    color: white;
+}
